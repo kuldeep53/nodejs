@@ -1,5 +1,5 @@
 // const helper=require('./helpers');
-// const total =helper.sum(5,4);
+// const total = helper.sum(5,4);
 /**
  * instead of using whole object file
  * we can use object destructing
@@ -34,11 +34,11 @@
 // //     }
 // //     console.log(data.toString());
 // // });
-// /**
-//  * above code represent the working of async programming
-//  * and now we are doing this same part using the
-//  * sync programming
-//  */
+/**
+ * above code represent the working of async programming
+ * and now we are doing this same part using the
+ * sync programming
+ */
 // const data=fs.readFileSync(filename);
 // console.log(data.toString());
 // console.log('node js async programming');
